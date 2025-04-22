@@ -1,4 +1,6 @@
-# Banana-App：香蕉熟度即時辨識系統
+## 本專案為個人專題練習使用
+
+# Banana-App：香蕉過熟度辨識App
 
 使用 Flutter 開發的行動應用程式，結合 Android Camera2 與 YOLOv7 模型，可即時辨識香蕉熟度，並預估可食用天數，協助倉儲管理與品質控管。
 
